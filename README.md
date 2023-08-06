@@ -13,6 +13,13 @@ I am Ashutosh Rana from India
 
 🔬 Skills: Python, Machine Learning, Data Analysis, Data Visualization.
 
+🛠️ Tech Stack:
+
+
+🐍 Python | 📊 Pandas | 🧠 Scikit-Learn | 📈 Matplotlib | 📊 Seaborn | 🧮 NumPy | 💻 Jupyter | 🤖 TensorFlow
+
+
+
 💼 Currently pursuing my data science journey with a passion for solving real-world problems.
 
 🌱 Let's connect and collaborate on all things data!
