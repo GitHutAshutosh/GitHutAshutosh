@@ -1,7 +1,5 @@
 
-
-
-https://github.com/GitHutAshutosh/GitHutAshutosh/assets/141452701/164842fa-a298-45db-8f82-5c291b2fd423
+![Solar AI](https://github.com/GitHutAshutosh/GitHutAshutosh/assets/141452701/505509dd-43df-4f37-9241-8c6940bc69e4)
 
 
 
