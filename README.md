@@ -1,8 +1,4 @@
 
-![Solar AI](https://github.com/GitHutAshutosh/GitHutAshutosh/assets/141452701/505509dd-43df-4f37-9241-8c6940bc69e4)
-
-
-
 Hi Everyone ♡
 
 I am Ashutosh Rana from India
