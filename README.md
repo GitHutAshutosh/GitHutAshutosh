@@ -22,7 +22,13 @@ I am Ashutosh Rana from India
 
 💼 Currently pursuing my data science journey with a passion for solving real-world problems.
 
+
+https://github.com/GitHutAshutosh/GitHutAshutosh/assets/141452701/50b6b08a-0ea1-4cb2-9503-d0e6becf5eb6
+
+
 🌱 Let's connect and collaborate on all things data!
+
+
 
 <!--
 **GitHutAshutosh/GitHutAshutosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
