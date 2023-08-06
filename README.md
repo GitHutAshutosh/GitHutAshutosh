@@ -1,5 +1,8 @@
 
-![AI](https://github.com/GitHutAshutosh/GitHutAshutosh/assets/141452701/56177927-644d-438e-a157-0fa8612b314b)
+
+
+https://github.com/GitHutAshutosh/GitHutAshutosh/assets/141452701/164842fa-a298-45db-8f82-5c291b2fd423
+
 
 
 Hi Everyone ♡
