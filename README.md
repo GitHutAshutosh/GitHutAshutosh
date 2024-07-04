@@ -3,7 +3,7 @@ Hi Everyone ♡
 
 I am Ashutosh Rana from India
 
-| Data Scientist | India 🇮🇳
+| QA Engineer | Data Scientist | India 🇮🇳
 
 📊 Exploring the world of data, one insight at a time.
 
